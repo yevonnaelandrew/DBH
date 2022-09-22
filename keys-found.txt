@@ -1,0 +1,48 @@
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 72ed350ce973b6635c0b8ab902aa7b2f950d30cb8b902acc047bdd35682e1f2f
+ADDRESS = 15yomb2wDuz9MHcz4hQiU3jW3ZRYMEep4t
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = bbe54363e21049daf47b4fe8b4a2468bf90ab140d68b7d5255698437f4d704a6
+ADDRESS = 167JDxi8SAebrFLPfVX7yXe98D3W2S7PJ2
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 3c5c50e7db555708cb93f1e33cbd417e59ac804d2320da04c4177eaca25e15e8
+ADDRESS = 1LQsYFrPr1N7kxVu4mBymFcECN6nMFRtvT
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 4e303ad896096d2445c7b17cadaa213c86b821f017ccf2ee70ee75dee575096c
+ADDRESS = 1BmtpTtHmR3i7AWGSetmnmm48XiCHgWKLL
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 67194680cc7400a519d458c4b16408440a8605cabd3da8f7d7cc5afb9e008a39
+ADDRESS = 1GFY1vGKVbJ5auapyspkifMJpBj3t889Xm
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 1ca2d595ab0f4dc45770cf2c8f7c9ecf9d02fcdc1f31fca96e7d60b17fbbeaf7
+ADDRESS = 18N49CMLRc35c7GaR2zw7yTrXxAwMMmPA9
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = e71ce6d371a628daeb696af0e9dbf2fbe2a7c49ee69b30b35df8102932da2ba7
+ADDRESS = 1N8M4XnckXqEPPB4pt3wXarE2ezhnwVA5G
+BALANCE = 0.0 BTC
+--------------------------------------
+--------------------------------------
+FOUND A LUCKY PAIR:
+PRIVATE KEY = 7a40e6ea0cf2fefd1fe98d50be5e1cea8b06426f2b15f96a82a6323182b234cc
+ADDRESS = 1Njcv4zsJ4DNKNzLir3x96gTjNuygWEE8n
+BALANCE = 0.0 BTC
+--------------------------------------
